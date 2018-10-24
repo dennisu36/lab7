@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pallette</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="array_name1">
+        <item>BLANCO</item>
+        <item>CIAN</item>
+        <item>AMARILLO</item>
+        <item>VERDE</item>
+        <item>ROJO</item>
+    </string-array>
+</resources>
